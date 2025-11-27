@@ -1,0 +1,2 @@
+# AnimalActionRecognitionusinglargefoundationmodel
+Animal Action Recognition using Large Foundation Models
